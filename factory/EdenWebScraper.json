@@ -1,0 +1,9 @@
+{
+	"name": "EdenWebScraper",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "27693c1c-65df-4357-a3df-636da7c00bbd",
+		"tenantId": "a2e466aa-4f86-4545-b5b8-97da7c8febf3"
+	}
+}
